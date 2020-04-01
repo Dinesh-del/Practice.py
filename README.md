@@ -1,1 +1,1 @@
-# Practice.py
+Print("Hello python")
